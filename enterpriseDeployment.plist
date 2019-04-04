@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:8089/EBBase.ipa</string>
+					<string>http://10.4.1.152:8089/EBBase.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
